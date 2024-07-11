@@ -9,6 +9,9 @@ const options = {
       description: 'A simple API for managing a library system',
     },
     servers: [
+        {
+            url: 'https://lmscas-production.up.railway.app/'
+        },
       {
         url: 'http://localhost:8000',
       },
