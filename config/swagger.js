@@ -10,7 +10,7 @@ const options = {
     },
     servers: [
         {
-            url: 'https://lmscas-production.up.railway.app/'
+            url: 'https://lms-cas-test.up.railway.app/'
         },
       {
         url: 'http://localhost:8000',
